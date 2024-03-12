@@ -1,0 +1,23 @@
+{
+  "name": "zhondori",
+  "version": "1.0.1",
+  "description": "Alisher Usmonov, Frontend Developer",
+  "main": "./info.json",
+  "bin": {
+    "zhondori": "zhondori.js"
+  },
+  "keywords": [
+    "contact",
+    "person"
+  ],
+  "author": "Alisher Usmonov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhondori/zhondori.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhondori/zhondori/issues"
+  },
+  "homepage": "https://github.com/zhondori/zhondori#readme"
+}

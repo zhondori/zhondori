@@ -1,0 +1,26 @@
+{
+  "name": "Alisher Usmonov",
+  "website": "https://alisherdev.uz",
+  "twitch": "https://twitch.tv/zhondori",
+  "github": "https://github.com/zhondori",
+  "twitter": "https://twitter.com/zhondori",
+  "instagram": "https://instagram.com/zhondori",
+  "linkedin": "https://linkedin.com/in/alisherdev",
+  "company": [
+    {
+      "name": "Mohirdev",
+      "position": "Frontend Developer",
+      "website": "https://mohirdev.uz",
+      "social": {
+        "instagram": "https://www.instagram.com/mohirdev/",
+        "linkedin": "https://www.linkedin.com/company/mohirdevuz",
+        "youtube": "https://www.youtube.com/@mohirdev"
+      }
+    },
+    {
+      "name": "Wasaf Int Solutions",
+      "position": "Frontend Developer",
+      "website": "https://wasaf.uz"
+    }
+  ]
+}
