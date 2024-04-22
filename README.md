@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning SaaS<br>🎯 Goals: mastering web <br>🎲 Fun fact: I use tabs over spaces</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning IndieHacking<br>🎯 Goals: mastering web <br>🎲 Fun fact: I use tabs over spaces</p>
 
 ###
 
